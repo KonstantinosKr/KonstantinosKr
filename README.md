@@ -19,9 +19,4 @@ Here are some ideas to get you started:
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Contribution Stats :
 
-<div>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KonstantinosKr" alt="GitHub Streak" /></a>
-</div>
-
-<hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=KonstantinosKr)](https://git.io/streak-stats)

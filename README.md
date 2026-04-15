@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!------------ Streak Display -------------->
+<!------------ Streak Display --------------><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KonstantinosKr&show_icons=true&theme=radical&count_private=true" alt="Konstantinos's Stats" height="185px" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonstantinosKr&layout=compact&theme=radical&hide=html,css" alt="Top Languages" height="185px" />
+</p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Contribution Stats :
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=KonstantinosKr)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KonstantinosKr&theme=radical" alt="GitHub Streak" />
+</p>

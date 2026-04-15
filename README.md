@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!------------ Streak Display --------------><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KonstantinosKr&show_icons=true&theme=radical&count_private=true" alt="Konstantinos's Stats" height="185px" />
-  
+<!------------ Streak Display -------------->
+<p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonstantinosKr&layout=compact&theme=radical&hide=html,css" alt="Top Languages" height="185px" />
 </p>
 
